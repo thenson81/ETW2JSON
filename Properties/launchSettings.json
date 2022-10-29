@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ETW2JSON": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Temp\\EtwRewrites\\NetshScript.etl --output=etwToJson.json",
+      "workingDirectory": "C:\\Temp\\EtwRewrites"
+    }
+  }
+}
